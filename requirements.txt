@@ -5,7 +5,7 @@ gdown
 flask-cors
 flask
 
-# YOLOv5 requiremnets
+# YOLOv5 requirements
 
 #Base------------------------------------------
 matplotlib>=3.2.2
